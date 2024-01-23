@@ -12,7 +12,7 @@
 npm i
 ```
 
-### Создаем файл .env.local и заполняем в соответствии с .env.exmaple.env
+### Создаем файл .env.local и заполняем в соответствии с .env.example.env
 
 ```console
 npm start
